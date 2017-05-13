@@ -1,2 +1,6 @@
 no2
+<<<<<<< HEAD
 no4
+=======
+bni
+>>>>>>> e1143bc13a51ad6391a77c4d122fdbfb3c5a7b54
